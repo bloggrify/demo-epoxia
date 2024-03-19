@@ -1,0 +1,42 @@
+body {
+    @apply transition-all;
+}
+
+html {
+    @apply dark:bg-gray-900 ;
+}
+
+.dark-mode svg {
+    fill: #ffffff;
+}
+
+
+@font-face {
+    font-family: "Proxima Nova";
+    src: url("assets/fonts/Proxima-Nova-Font.otf") format("opentype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bruno Ace';
+    src: url('assets/fonts/BrunoAce-Regular.woff') format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark Pro';
+    src: url('assets/fonts/Mark-Pro.ttf') format("truetype");
+    font-display: swap;
+}
+
+.font-mark {
+    font-family: 'Mark Pro', sans-serif;
+}
+
+.font-bruno {
+    font-family: 'Bruno Ace', sans-serif;
+}
+
+.font-proxima {
+    font-family: 'Proxima Nova', sans-serif;
+}
