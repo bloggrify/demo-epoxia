@@ -5,11 +5,11 @@ export default defineNuxtConfig({
                 ...(process.env.PIRSCH_CODE
                     ? [
                         {
-                            src: "https://api.pirsch.io/pirsch.js",
-                            id: "pirschjs",
+                            src: 'https://api.pirsch.io/pirsch.js',
+                            id: 'pirschjs',
                             defer: true,
-                            "data-code": process.env.PIRSCH_CODE,
-                            type: "text/javascript",
+                            'data-code': process.env.PIRSCH_CODE,
+                            type: 'text/javascript',
                         },
                     ]
                     : []),
@@ -18,9 +18,9 @@ export default defineNuxtConfig({
     },
 
     extends: [
-        "github:hlassiege/bloggrify#main",
-        "github:hlassiege/bloggrify-epoxia#main",
+        'github:hlassiege/bloggrify#main',
+        'github:hlassiege/bloggrify-epoxia#main',
     ],
 
-    css: ["~/assets/css/epoxia.scss"],
-});
+    css: ['~/assets/css/epoxia.scss'],
+})
