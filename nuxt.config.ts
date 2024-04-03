@@ -21,6 +21,4 @@ export default defineNuxtConfig({
         'github:hlassiege/bloggrify#main',
         'github:hlassiege/bloggrify-epoxia#main',
     ],
-
-    css: ['~/assets/css/epoxia.scss'],
 })
