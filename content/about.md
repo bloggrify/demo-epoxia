@@ -10,19 +10,34 @@ nocomments: true
 # About this theme
 
 Epoxia is a theme for the blogging platform [Bloggrify](https://bloggrify.com).
-If you want to use it, you should start by the [getting started guide](https://bloggrify.com/introduction/introduction).
+
+## Installation
+
+To install this theme, you should clone this repository and install the dependencies.
+
+```bash
+git clone git@github.com:hlassiege/demo-epoxia.git
+cd demo-epoxia
+npm install
+```
+
+Then you can run the development server on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+Then, you can remove all contents from the `content` folder and start from scratch and create your own [content](https://bloggrify.com/introduction/writing-pages).
+
 
 ## Configuration
 
 On top of the [standard configuration](https://bloggrify.com/introduction/configuration), you can add the following options to your app.config.ts file:
 
 
-
 | **Key**              | **Type**  | **Default** | **Description**                                    |
 |----------------------|-----------|-------------|----------------------------------------------------|
 | `dark_mode_selector_hide` | `boolean` | false       | true if you want to disable the dark mode selector |
-
-
 
 ## Dark mode 
 
