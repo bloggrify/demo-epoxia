@@ -18,7 +18,7 @@ export default defineNuxtConfig({
     },
 
     extends: [
-        'github:hlassiege/bloggrify#main',
-        '@bloggrify/epoxia',
+        '@bloggrify/core',
+        '@bloggrify/epoxia'
     ],
 })
