@@ -68,12 +68,48 @@ export default defineAppConfig({
         { name: 'Home', path: '/' },
         { name: 'Documentation', path: '/about' },
         { name: 'Archives', path: '/archives' },
+        { name: 'Portfolio', path: '/portfolio' },
     ],
 
     robots: [
         {
             UserAgent: '*',
             Disallow: ['/'],
+        },
+    ],
+
+    donations: {
+        buy_me_a_coffee: 'hlassiege',
+    },
+
+    portfolio: [
+        {
+            name: 'Bloggrify',
+            description: 'A static and open source blog generator. Used for this blog.',
+            url: 'https://bloggrify.com',
+            image: 'https://bloggrify.com/images/logo.svg',
+            status: 'active',
+        },
+        {
+            name: 'Bloggrify - Epoxia',
+            description: 'A premium theme for Bloggrify.',
+            url: 'https://epoxia.bloggrify.com',
+            image: '/android-chrome-192x192.png',
+            status: 'active',
+        },
+        {
+            name: 'Eventuallycoding',
+            description: 'A blog using epoxia theme. In french.',
+            image: '/android-chrome-192x192.png',
+            url: 'https://eventuallycoding.com',
+            status: 'active',
+        },
+        {
+            name: 'Eventuallymaking',
+            description: 'A blog using epoxia theme. In english.',
+            image: '/android-chrome-192x192.png',
+            url: 'https://eventuallymaking.io',
+            status: 'active',
         },
     ],
 })
