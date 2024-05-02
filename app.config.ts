@@ -98,11 +98,11 @@ export default defineAppConfig({
             status: 'active',
         },
         {
-            name: 'Eventuallycoding',
-            description: 'A blog using epoxia theme. In french.',
+            name: 'Discontinued',
+            description: 'Example of a discontinued project.',
             image: '/android-chrome-192x192.png',
             url: 'https://eventuallycoding.com',
-            status: 'active',
+            status: 'discontinued',
         },
         {
             name: 'Eventuallymaking',
