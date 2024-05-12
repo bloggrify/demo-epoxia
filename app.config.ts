@@ -31,6 +31,7 @@ export default defineAppConfig({
     newsletter: {
         enabled: true,
         form_action: 'YOUR_NEWSLETTER_FORM_ACTION',
+        provider: 'rssfeedpulse'
     },
 
     comments: {

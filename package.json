@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@bloggrify/core": "1.1.3",
-        "@bloggrify/epoxia": "1.0.4.1",
+        "@bloggrify/epoxia": "1.0.5",
         "nuxt": "3.10.3"
     },
     "devDependencies": {
