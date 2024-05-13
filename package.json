@@ -10,8 +10,8 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@bloggrify/core": "1.1.3",
-        "@bloggrify/epoxia": "1.0.5",
+        "@bloggrify/core": "1.1.4",
+        "@bloggrify/epoxia": "1.0.7",
         "nuxt": "3.10.3"
     },
     "devDependencies": {
