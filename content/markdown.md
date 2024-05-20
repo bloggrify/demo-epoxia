@@ -3,8 +3,13 @@ id: "2"
 title: "Use markdown power"
 description: "Use markdown at its full potential."
 date: "2024-02-10"
+categories:
+  - "markdown"
+  - "documentation"
 tags:
   - markdown
+  - example
+  - documentation
 cover: "covers/thailand.jpg"
 ---
 

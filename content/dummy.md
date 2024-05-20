@@ -4,6 +4,10 @@ title: "Dummy content"
 description: "This is a dummy content."
 date: "2024-02-03"
 cover: "covers/lyon.jpg"
+categories:
+    - "loren ipsum"
+    - "travel"
+
 ---
 
 # One morning, when Gregor Samsa woke from troubled dreams.

@@ -5,11 +5,22 @@ description: "About this theme."
 date: "2024-02-11"
 listed: false
 nocomments: true
+categories:
+    - "documentation"
+tags:
+    - "theme"
+    - "epoxia"
+    - "documentation"
+
 ---
 
 # About this theme
 
 Epoxia is a theme for the blogging platform [Bloggrify](https://bloggrify.com).
+
+::alert{type="TIP"}
+This theme supports categories and tags. You can add them in the front matter of your markdown files.
+::
 
 ## Installation
 
@@ -71,7 +82,7 @@ You can create a page with the following front matter:
 title: "Portfolio"
 description: "Portfolio"
 listed: false
-layout: "themes-epoxia-portfolio"
+layout: "portfolio"
 ---
 ```
 

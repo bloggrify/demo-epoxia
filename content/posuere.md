@@ -6,6 +6,10 @@ date: "2024-02-09"
 tags:
   - posuere
 cover: "covers/france.jpg"
+categories:
+    - "loren ipsum"
+    - "travel"
+
 ---
 
 # Posuere et venenatis eros pretium natoque porta dictum tempus
