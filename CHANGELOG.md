@@ -1,7 +1,7 @@
 # Changelog
 
 
-## v0.9.1
+## v1.0.0
 
 
 ### 📖 Documentation
