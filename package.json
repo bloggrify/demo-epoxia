@@ -10,13 +10,13 @@
         "lint": "eslint ."
     },
     "dependencies": {
-        "@bloggrify/core": "1.1.4",
-        "@bloggrify/epoxia": "1.0.7",
-        "nuxt": "3.10.3"
+        "@bloggrify/core": "1.2.1",
+        "@bloggrify/epoxia": "1.2.0",
+        "nuxt": "3.11.2"
     },
     "devDependencies": {
         "@nuxt/eslint-config": "^0.2.0",
-        "autoprefixer": "10.4.17",
+        "autoprefixer": "10.4.19",
         "eslint": "8.56.0",
         "sass": "1.70.0"
     }
