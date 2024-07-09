@@ -18,9 +18,20 @@ tags:
 
 Epoxia is a theme for the blogging platform [Bloggrify](https://bloggrify.com).
 
-::alert{type="TIP"}
-This theme supports categories and tags. You can add them in the front matter of your markdown files.
-::
+
+## Supported features
+
+|| **Feature** | **Description**                              |
+|---|---|----------------------------------------------|
+| 🌙 | Dark mode | Toggle between light and dark mode           |
+| 📖 | Categories and tags | Add categories and tags to your posts        |
+| 📚 | Portfolio | Showcase your profile on a dedicated page    |
+| 💰 | Donations | Add a donation button to your portfolio page |
+| 📝 | Markdown | Use markdown to write your posts             |
+| 📧 | Newsletter | Add a newsletter subscription form with RssFeedPulse          |
+| 💬 | Comments | Add comments to your posts with Hyvor Talk   |
+| 📱 | Responsive | Mobile-friendly design                       |
+
 
 ## Installation
 
