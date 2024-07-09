@@ -10,6 +10,7 @@
         "url": "https://github.com/hlassiege/demo-epoxia.git"
     },
     "scripts": {
+        "preinstall": "npx playwright install --with-deps",
         "build": "nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
