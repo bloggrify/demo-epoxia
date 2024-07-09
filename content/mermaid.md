@@ -131,7 +131,7 @@ journey
 
 With MermaidJS support, Bloggrify empowers you to create dynamic, informative, and visually appealing content. Whether you need to visualize workflows, represent complex systems, or simply add a touch of creativity to your posts, MermaidJS is the perfect tool.
 
-We look forward to seeing the amazing diagrams you create with MermaidJS in your Bloggrify posts. Share your experiences and feedback with us, and stay tuned to Mistral for more exciting updates and tutorials!
+We look forward to seeing the amazing diagrams you create with MermaidJS in your Bloggrify posts. Share your experiences and feedback with us, and stay tuned to Epoxia for more exciting updates and tutorials!
 
 Happy blogging!
 

@@ -54,6 +54,6 @@ For a detailed guide on theming, including step-by-step instructions and best pr
 ## Conclusion
 Whether you choose a predefined theme or create your own, Bloggrify provides the tools and flexibility you need to make your blog truly yours. Experiment with different designs, find your unique style, and make your blog stand out.
 
-Stay tuned to Mistral for more tips and tutorials on getting the most out of Bloggrify. Happy theming!
+Stay tuned to Epoxia for more tips and tutorials on getting the most out of Bloggrify. Happy theming!
 
 The Bloggrify Team
