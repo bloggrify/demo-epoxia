@@ -1,3 +1,9 @@
+**This repository is not relevant anymore
+
+Please follow [the official documentation](https://bloggrify.com/introduction/installation) to get started with Bloggrify.**
+
+
+
 # Epoxia
 
 Epoxia is a premium template [Bloggrify](https://github.com/hlassiege/bloggrify). 
